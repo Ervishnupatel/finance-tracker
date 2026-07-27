@@ -85,19 +85,7 @@ Paisable is a **full-stack personal finance management app** built with **React 
 
 ## Getting Started
 
-### Fork the repository
 
-Before cloning, make sure to fork the repository to your GitHub account.
-
-1. Go to the GitHub repo page: https://github.com/Code-A2Z/paisable
-2. Click Fork in the top-right corner.
-
-### Clone your fork
-
-```bash
-git clone https://github.com/your-username/paisable.git
-cd paisable
-```
 
 ### Backend Setup
 
@@ -201,31 +189,5 @@ You can:
 * Publish Directory: `dist`
 * Environment Variable: `VITE_API_URL=https://your-backend.onrender.com/api`
 
-## Contributing
-
-Contributions are what make the open-source community such an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated**.
-
-Please refer to our [Contributing Guide](CONTRIBUTING.md) for detailed instructions on how to get started with your contribution.
-
-## Contributors
-
-We'd like to extend our heartfelt thanks to everyone who has contributed to **Paisable** — whether through code, design, documentation, bug reports, or ideas. Your efforts make this project better for everyone. 💖
-
-<a href="https://github.com/Code-A2Z/paisable/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=Code-A2Z/paisable" />
-</a>
 
 ### 🙌 Individual Acknowledgments
-
-* [@archa8](https://github.com/archa8) – Project Developer & Maintainer
-* [@Avdhesh-Varshney](https://github.com/Avdhesh-Varshney) - Maintainer
-
-> Want to see your name here? Check out our [Contributing Guide](CONTRIBUTING.md) and submit your first pull request!
-
-## License
-
-This project is licensed under the [MIT License](LICENSE).
-
-## Author
-
-Developed by [**Archa**](https://github.com/archa8)
