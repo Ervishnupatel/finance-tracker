@@ -17,7 +17,7 @@ if (savedTheme) {
   initialTheme = 'dark';
 }
 updateFavicon(initialTheme);
-
+// 
 ReactDOM.createRoot(document.getElementById('root')).render(
   <React.StrictMode>
     <Router>
